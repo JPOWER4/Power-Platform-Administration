@@ -1,0 +1,7 @@
+https://github.com/MicrosoftLearning/MS-030-Office365Administrator/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex1_Manage_Users_with_M365.md
+
+https://github.com/MicrosoftLearning/MS-030-Office365Administrator/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex2_Manage_PW_Policies.md
+
+https://github.com/MicrosoftLearning/MS-030-Office365Administrator/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex3_Manage_M365_Groups.md
+
+https://github.com/MicrosoftLearning/MS-030-Office365Administrator/blob/master/Instructions/Labs/LAB_AK_02_Lab2_Ex4_Manage_Users_with_PS.md
