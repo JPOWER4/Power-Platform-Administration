@@ -1,0 +1,8 @@
+Reference
+
+Getting started: http://powerbi.com
+Admin Portal: https://docs.microsoft.com/en-us/power-bi/service-admin-portal Power BI Admin: https://docs.microsoft.com/en-us/power-bi/service-admin-role Power BI Premium: https://docs.microsoft.com/en-us/power-bi/service-premium
+Power BI Embedded: https://docs.microsoft.com/en-us/power-bi/developer/azure-pbie-what-is-power- bi-embedded
+Collaboration: https://docs.microsoft.com/en-us/power-bi/service-collaborate-power-bi-workspace Usage metrics: https://docs.microsoft.com/en-us/power-bi/service-usage-metrics
+On-premises data gateway: https://docs.microsoft.com/en-us/power-bi/service-gateway-onprem REST API: https://docs.microsoft.com/en-us/rest/api/power-bi/
+CMDLETS: https://docs.microsoft.com/powershell/power-bi/overview?view=powerbi-ps Community site https://community.powerbi.com/
